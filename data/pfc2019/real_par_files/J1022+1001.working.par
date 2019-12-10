@@ -1,0 +1,249 @@
+PSR              J1022+1001
+LAMBDA                 NaN  1                 NaN
+BETA                   NaN  1                 NaN
+PMLAMBDA               NaN  1                 NaN
+PMBETA                 NaN  1                 NaN
+PX                     NaN  1                 NaN
+POSEPOCH        56769.0000
+F0                     NaN  1                 NaN
+F1                     NaN  1                 NaN
+PEPOCH        56769.000000
+START            58467.405
+FINISH           58467.407
+DM               10.257885
+DMX               0.500000
+DMX_0001               NaN  1                 NaN
+DMXEP_0001     57935.86878
+DMXR1_0001     57935.86037
+DMXR2_0001     57935.87722
+DMXF1_0001           0.000
+DMXF2_0001           0.000
+DMX_0002               NaN  1                 NaN
+DMXEP_0002     57956.81395
+DMXR1_0002     57956.80545
+DMXR2_0002     57956.82246
+DMXF1_0002           0.000
+DMXF2_0002           0.000
+DMX_0003               NaN  1                 NaN
+DMXEP_0003     57978.75757
+DMXR1_0003     57978.74926
+DMXR2_0003     57978.76590
+DMXF1_0003           0.000
+DMXF2_0003           0.000
+DMX_0004               NaN  1                 NaN
+DMXEP_0004     58000.70151
+DMXR1_0004     58000.69305
+DMXR2_0004     58000.70998
+DMXF1_0004           0.000
+DMXF2_0004           0.000
+DMX_0005               NaN  1                 NaN
+DMXEP_0005     58067.51248
+DMXR1_0005     58067.50406
+DMXR2_0005     58067.52093
+DMXF1_0005           0.000
+DMXF2_0005           0.000
+DMX_0006               NaN  1                 NaN
+DMXEP_0006     58082.49339
+DMXR1_0006     58082.49339
+DMXR2_0006     58082.49342
+DMXF1_0006           0.000
+DMXF2_0006           0.000
+DMX_0007               NaN  1                 NaN
+DMXEP_0007     58100.39142
+DMXR1_0007     58100.35114
+DMXR2_0007     58100.43172
+DMXF1_0007           0.000
+DMXF2_0007           0.000
+DMX_0008               NaN  1                 NaN
+DMXEP_0008     58103.40007
+DMXR1_0008     58103.39160
+DMXR2_0008     58103.40856
+DMXF1_0008           0.000
+DMXF2_0008           0.000
+DMX_0009               NaN  1                 NaN
+DMXEP_0009     58124.35474
+DMXR1_0009     58124.34628
+DMXR2_0009     58124.36321
+DMXF1_0009           0.000
+DMXF2_0009           0.000
+DMX_0010               NaN  1                 NaN
+DMXEP_0010     58147.21983
+DMXR1_0010     58147.21982
+DMXR2_0010     58147.21985
+DMXF1_0010           0.000
+DMXF2_0010           0.000
+DMX_0011               NaN  1                 NaN
+DMXEP_0011     58168.23504
+DMXR1_0011     58168.22660
+DMXR2_0011     58168.24350
+DMXF1_0011           0.000
+DMXF2_0011           0.000
+DMX_0012               NaN  1                 NaN
+DMXEP_0012     58187.18964
+DMXR1_0012     58187.17808
+DMXR2_0012     58187.20121
+DMXF1_0012           0.000
+DMXF2_0012           0.000
+DMX_0013               NaN  1                 NaN
+DMXEP_0013     58208.12396
+DMXR1_0013     58208.11552
+DMXR2_0013     58208.13243
+DMXF1_0013           0.000
+DMXF2_0013           0.000
+DMX_0014               NaN  1                 NaN
+DMXEP_0014     58229.08031
+DMXR1_0014     58229.07188
+DMXR2_0014     58229.08875
+DMXF1_0014           0.000
+DMXF2_0014           0.000
+DMX_0015               NaN  1                 NaN
+DMXEP_0015     58249.00932
+DMXR1_0015     58249.00087
+DMXR2_0015     58249.01778
+DMXF1_0015           0.000
+DMXF2_0015           0.000
+DMX_0016               NaN  1                 NaN
+DMXEP_0016     58271.95249
+DMXR1_0016     58271.94401
+DMXR2_0016     58271.96099
+DMXF1_0016           0.000
+DMXF2_0016           0.000
+DMX_0017               NaN  1                 NaN
+DMXEP_0017     58290.91428
+DMXR1_0017     58290.91428
+DMXR2_0017     58290.91431
+DMXF1_0017           0.000
+DMXF2_0017           0.000
+DMX_0018               NaN  1                 NaN
+DMXEP_0018     58334.78642
+DMXR1_0018     58334.77868
+DMXR2_0018     58334.79417
+DMXF1_0018           0.000
+DMXF2_0018           0.000
+DMX_0019               NaN  1                 NaN
+DMXEP_0019     58353.73495
+DMXR1_0019     58353.72652
+DMXR2_0019     58353.74341
+DMXF1_0019           0.000
+DMXF2_0019           0.000
+DMX_0020               NaN  1                 NaN
+DMXEP_0020     58377.67029
+DMXR1_0020     58377.66066
+DMXR2_0020     58377.67993
+DMXF1_0020           0.000
+DMXF2_0020           0.000
+DMX_0021               NaN  1                 NaN
+DMXEP_0021     58397.60828
+DMXR1_0021     58397.59983
+DMXR2_0021     58397.61675
+DMXF1_0021           0.000
+DMXF2_0021           0.000
+DMX_0022               NaN  1                 NaN
+DMXEP_0022     58440.48161
+DMXR1_0022     58440.47316
+DMXR2_0022     58440.49009
+DMXF1_0022           0.000
+DMXF2_0022           0.000
+DMX_0023               NaN  1                 NaN
+DMXEP_0023     58467.41432
+DMXR1_0023     58467.40581
+DMXR2_0023     58467.42284
+DMXF1_0023        2366.104
+DMXF2_0023        2398.130
+DMX_0024               NaN  1                 NaN
+DMXEP_0024     58482.38494
+DMXR1_0024     58482.37653
+DMXR2_0024     58482.39337
+DMXF1_0024           0.000
+DMXF2_0024           0.000
+DMX_0025               NaN  1                 NaN
+DMXEP_0025     58504.25151
+DMXR1_0025     58504.24273
+DMXR2_0025     58504.26032
+DMXF1_0025           0.000
+DMXF2_0025           0.000
+DMX_0026               NaN  1                 NaN
+DMXEP_0026     58525.19317
+DMXR1_0026     58525.18577
+DMXR2_0026     58525.20060
+DMXF1_0026           0.000
+DMXF2_0026           0.000
+DMX_0027               NaN  1                 NaN
+DMXEP_0027     58546.13679
+DMXR1_0027     58546.12797
+DMXR2_0027     58546.14563
+DMXF1_0027           0.000
+DMXF2_0027           0.000
+DMX_0028               NaN  1                 NaN
+DMXEP_0028     58567.07981
+DMXR1_0028     58567.07980
+DMXR2_0028     58567.07983
+DMXF1_0028           0.000
+DMXF2_0028           0.000
+DMX_0029               NaN  1                 NaN
+DMXEP_0029     58588.02498
+DMXR1_0029     58588.01623
+DMXR2_0029     58588.03375
+DMXF1_0029           0.000
+DMXF2_0029           0.000
+DMX_0030               NaN  1                 NaN
+DMXEP_0030     58607.96731
+DMXR1_0030     58607.95866
+DMXR2_0030     58607.97598
+DMXF1_0030           0.000
+DMXF2_0030           0.000
+DMX_0031               NaN  1                 NaN
+DMXEP_0031     58630.92106
+DMXR1_0031     58630.91220
+DMXR2_0031     58630.92994
+DMXF1_0031           0.000
+DMXF2_0031           0.000
+DMX_0032               NaN  1                 NaN
+DMXEP_0032     58650.86178
+DMXR1_0032     58650.85301
+DMXR2_0032     58650.87057
+DMXF1_0032           0.000
+DMXF2_0032           0.000
+DMX_0033               NaN  1                 NaN
+DMXEP_0033     58691.74785
+DMXR1_0033     58691.73895
+DMXR2_0033     58691.75677
+DMXF1_0033           0.000
+DMXF2_0033           0.000
+FD1             NaN  1                 NaN
+FD2             NaN  1                 NaN
+FD3             NaN  1                 NaN
+FD4             NaN  1                 NaN
+FD5             NaN  1                 NaN
+SOLARN0               0.00
+EPHEM               DE436
+CLK                 TT(BIPM2017)                    
+UNITS               TDB
+TIMEEPH             FB90
+T2CMETHOD           TEMPO
+CORRECT_TROPOSPHERE N
+PLANET_SHAPIRO      N
+DILATEFREQ          N
+NTOA                     4
+TRES                   NaN
+TZRMJD  5846             NaN
+TZRFRQ            2398.130
+TZRSITE                  AO
+MODE                     1
+NITS                     1
+INFO -f                              
+BINARY            DD      
+A1                     NaN  1                 NaN
+E                      NaN  1                 NaN
+T0                     NaN  1                 NaN
+PB                     NaN  1                 NaN
+OM                     NaN  1                 NaN
+RNAMP         0.42227D+00
+RNIDX            -5.44975
+T2EFAC -f S-wide_PUPPI   0.353
+T2EQUAD -f S-wide_PUPPI   8.44258
+ECORR -f S-wide_PUPPI   0.03984
+JUMP -fe L-wide               NaN  0               NaN
+JUMP -fe Rcvr1_2               NaN  0               NaN
+JUMP -fe S-wide               NaN  1               NaN
+C Generated by notebooks on 2019-09-26 15:35:26.041025
