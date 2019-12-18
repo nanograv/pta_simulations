@@ -1,4 +1,4 @@
-PSR              J0709+05    
+PSR              J0709+0458    
 RAJ      07:09:08.36525067  1          0.00013194
 DECJ      04:58:51.4652432  1           0.0115422
 F0     29.0453000042568057  1  0.0000000000630925
@@ -8,8 +8,8 @@ START            56600.384
 FINISH           57041.118
 DM               44.262386  1            0.000343
 SOLARN0              10.00
-EPHEM               DE421
-CLK                 UTC(NIST)   
+EPHEM               DE436
+CLK                 TT(BIPM2017)
 UNITS               TDB
 TIMEEPH             FB90
 T2CMETHOD           TEMPO

@@ -1,4 +1,4 @@
-PSR              0557+1551   
+PSR              J0557+1551   
 RAJ      05:57:31.44922601  1          0.00008602
 DECJ      15:50:06.0441660  1           0.0079901
 PMRA              -10.5670  1              1.5858
@@ -10,8 +10,8 @@ START            55963.077
 FINISH           56841.655
 DM              102.581000
 SOLARN0              10.00
-EPHEM             DE405
-CLK               UTC(NIST) 
+EPHEM             DE436
+CLK               TT(BIPM2017) 
 NTOA                   151
 TRES                  4.65
 TZRMJD  56346.00104714668553
