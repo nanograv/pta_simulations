@@ -20,9 +20,5 @@ FINISH         57115.014945144663216
 TZRMJD         56120.73813130071472        
 TZRFRQ         1484                     
 TZRSITE        3
-# changed clock from TT(TAI) to UTC(NIST) DJN 2015-Aug-03
-# changed tzrsite from nycobs to 3   
-# removed a bunch of tempo2 stuff DJN 2015 Aug-03
-CLK            UTC(NIST)
-# CLK            TT(TAI)
-EPHEM          DE405
+CLK            TT(BIPM2017)
+EPHEM          DE436
