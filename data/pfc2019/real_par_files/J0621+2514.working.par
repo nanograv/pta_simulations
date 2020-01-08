@@ -8,8 +8,8 @@ START            56056.115
 FINISH           56465.019
 DM               83.641000
 SOLARN0              10.00
-EPHEM             DE405
-CLK               UNCORR
+EPHEM             DE436
+CLK               TT(BIPM2017)
 NTOA                   193
 TRES                 27.02
 TZRMJD  56185.76949834582961

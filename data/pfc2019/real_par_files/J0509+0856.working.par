@@ -10,8 +10,8 @@ START            56516.473
 FINISH           57275.501
 DM               38.327064
 SOLARN0               0.00
-EPHEM               DE405
-CLK                 UNCORR      
+EPHEM               DE436
+CLK                 TT(BIPM2017)      
 UNITS               TDB
 TIMEEPH             FB90
 T2CMETHOD           TEMPO
