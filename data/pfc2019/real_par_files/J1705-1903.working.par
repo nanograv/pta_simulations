@@ -214,8 +214,8 @@ DMXR2_0034     58545.45383
 DMXF1_0034         756.689
 DMXF2_0034        1878.912
 SOLARN0              10.00
-EPHEM               DE405
-CLK                 UTC(NIST)                       
+EPHEM               DE436
+CLK                 TT(BIPM2017)                       
 UNITS               TDB
 TIMEEPH             FB90
 T2CMETHOD           TEMPO
